@@ -1,0 +1,72 @@
+Job Title: Junior Data Analyst
+
+Company Overview
+We are looking for a motivated Junior Data Analyst to join our analytics team. The selected candidate will support data-driven decision-making by collecting, cleaning, analyzing, and visualizing business data. This role is ideal for someone who has strong analytical thinking, basic programming knowledge, and an interest in turning raw data into meaningful business insights.
+
+Role Summary
+As a Junior Data Analyst, you will work closely with business teams, managers, and technical staff to understand data requirements, prepare datasets, build reports, and present insights. You will help identify patterns, trends, and performance gaps that can support better business decisions. The role requires attention to detail, curiosity, problem-solving ability, and clear communication.
+
+Key Responsibilities
+- Collect, clean, and organize raw data from different sources.
+- Analyze datasets using Python, SQL, Pandas, and NumPy.
+- Perform exploratory data analysis to identify trends, patterns, and anomalies.
+- Build dashboards and reports for business stakeholders.
+- Create data visualizations using Matplotlib, Plotly, Excel, or Power BI.
+- Write SQL queries to extract and summarize business data.
+- Prepare weekly or monthly reports on key business metrics.
+- Support business teams by answering data-related questions.
+- Communicate insights clearly to non-technical stakeholders.
+- Work with Git and GitHub for version control and project documentation.
+- Document analysis steps, assumptions, findings, and recommendations.
+- Assist in improving reporting workflows and automating repetitive analysis tasks.
+- Collaborate with team members to understand business problems and convert them into analytical tasks.
+
+Required Skills
+- Python
+- SQL
+- Pandas
+- NumPy
+- Data Cleaning
+- Data Analysis
+- Exploratory Data Analysis
+- Data Visualization
+- Statistics
+- Dashboard Development
+- Reporting
+- Microsoft Excel
+- Communication
+- Problem Solving
+- Git
+- GitHub
+
+Preferred Skills
+- Machine Learning
+- Streamlit
+- Power BI
+- Plotly
+- API Integration
+- Business Intelligence
+- Automation
+- Cloud experience with AWS or Google Cloud
+- Basic understanding of databases and data pipelines
+
+Qualifications
+- Bachelor’s degree in Computer Science, Data Science, Statistics, Software Engineering, Information Technology, Mathematics, or a related field.
+- Fresh graduates or entry-level candidates are encouraged to apply.
+- Basic experience with data analysis projects, academic projects, internships, or portfolio projects.
+- Ability to work independently and as part of a team.
+- Good written and verbal communication skills.
+- Strong interest in data analytics, business intelligence, and practical problem-solving.
+
+Example Projects or Experience We Value
+- Sales dashboard or business reporting project.
+- Customer churn analysis project.
+- Data cleaning and visualization project.
+- SQL-based database analysis project.
+- Machine learning beginner project.
+- Streamlit dashboard or data app.
+- Excel or Power BI reporting project.
+- Any project showing ability to analyze data and explain insights.
+
+What Success Looks Like
+A successful candidate will be able to understand business questions, prepare clean datasets, perform analysis, create clear visualizations, and explain findings in a simple and useful way. The candidate should be comfortable learning new tools and improving their analytical skills over time.

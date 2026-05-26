@@ -1,0 +1,62 @@
+Ali Khan
+Email: ali.khan@email.com
+Phone: +92 300 1234567
+Location: Lahore, Pakistan
+LinkedIn: linkedin.com/in/alikhan
+GitHub: github.com/alikhan
+
+Professional Summary
+Motivated Junior Data Analyst with hands-on project experience in Python, SQL, Pandas, NumPy, data cleaning, data visualization, dashboard development, and business reporting. Skilled at analyzing datasets, identifying trends, preparing reports, and communicating insights clearly to non-technical stakeholders. Interested in using data analytics and business intelligence to support better decision-making.
+
+Technical Skills
+- Programming: Python, SQL
+- Data Analysis: Pandas, NumPy, Exploratory Data Analysis, Data Cleaning
+- Visualization: Matplotlib, Plotly, Excel, Power BI
+- Reporting: Dashboard Development, Business Reporting, KPI Tracking
+- Tools: Git, GitHub, Streamlit, Jupyter Notebook
+- Soft Skills: Communication, Problem Solving, Teamwork, Documentation
+
+Projects
+
+Sales Performance Dashboard
+- Cleaned and analyzed sales data using Python, Pandas, and NumPy.
+- Built an interactive dashboard to track revenue, monthly sales trends, product performance, and regional performance.
+- Created charts and visualizations using Matplotlib and Plotly.
+- Identified top-performing products and low-performing regions to support business decision-making.
+- Documented the full workflow and uploaded the project to GitHub.
+
+Customer Churn Analysis
+- Performed exploratory data analysis on customer data to identify churn patterns.
+- Used statistics and visualization to compare customer behavior across different groups.
+- Created charts to show churn rate, customer activity, and risk factors.
+- Prepared a final report with recommendations to improve customer retention.
+
+Resume and Job Matcher App
+- Built a Streamlit-based app that compares resumes with job descriptions.
+- Used TF-IDF and cosine similarity to calculate resume-job match score.
+- Added skill gap analysis, keyword matching, and downloadable reports.
+- Organized the project using a clean Python folder structure.
+
+Education
+BS Computer Science
+University Name, Pakistan
+
+Certifications
+- Data Analysis with Python
+- SQL for Data Analytics
+- Introduction to Machine Learning
+
+Experience
+
+Data Analytics Intern
+ABC Software House
+June 2025 – August 2025
+- Assisted in cleaning and organizing business datasets.
+- Created basic reports using Excel and Python.
+- Wrote SQL queries to extract data from relational databases.
+- Presented weekly findings to the team in a clear and simple format.
+
+Additional Information
+- Strong interest in data analytics, business intelligence, and machine learning.
+- Comfortable learning new tools and working on practical data projects.
+- Able to explain technical findings in simple language.

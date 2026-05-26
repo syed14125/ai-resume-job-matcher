@@ -1,0 +1,9 @@
+case_id,resume_type,target_role,expected_match_level,overall_score,skill_score,keyword_score,text_similarity,observed_match_level,pass_fail,comments
+1,strong_data_analyst_resume,Junior Data Analyst,High,,,,,,,Fill after testing. Expected result: High match.
+2,generic_student_resume,Junior Data Analyst,Medium,,,,,,,Fill after testing. Expected result: Medium match.
+3,software_developer_resume,Junior Data Analyst,Medium,,,,,,,Fill after testing. Expected result: Medium match.
+4,marketing_resume,Junior Data Analyst,Low,,,,,,,Fill after testing. Expected result: Low match.
+5,machine_learning_resume,Junior Data Analyst,High,,,,,,,Fill after testing. Expected result: High match.
+6,non_technical_resume,Junior Data Analyst,Low,,,,,,,Fill after testing. Expected result: Low match.
+7,business_analyst_resume,Junior Data Analyst,Medium,,,,,,,Fill after testing. Expected result: Medium match.
+8,python_beginner_resume,Junior Data Analyst,Medium,,,,,,,Fill after testing. Expected result: Medium match.
